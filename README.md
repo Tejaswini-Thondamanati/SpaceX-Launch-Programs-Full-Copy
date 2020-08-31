@@ -36,6 +36,9 @@ Files
   app.module.ts
   app.server.module.ts
   
+ Lighthouse Score
+   Here Lighthouse Score is incorporated with all performance best practices, Performance, SEO and Accessibility values. The PDF file is attached for reference.
+  
   This is the file structure of the project.
   
 
